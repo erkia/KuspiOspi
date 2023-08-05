@@ -1,0 +1,9 @@
+[submodule "bsp/CMSIS/v5"]
+	path = bsp/CMSIS/v5
+	url = git@github.com:ARM-software/CMSIS_5.git
+[submodule "bsp/CMSIS/stm32l4"]
+	path = bsp/CMSIS/stm32l4
+	url = git@github.com:STMicroelectronics/cmsis_device_l4.git
+[submodule "bsp/hal/stm32l4"]
+	path = bsp/hal/stm32l4
+	url = git@github.com:STMicroelectronics/stm32l4xx_hal_driver.git
